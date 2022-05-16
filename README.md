@@ -2,7 +2,7 @@
 
 Program smart absensi menggunakan bahasa pemrograman python dan algoritma haarcascade
 
-## Cara Kerja
+## Proses Program
 
 1. Buka file **Smart Absensi_KU.py**
 2. Masukkan data yang diminta (khusus Nomor HP harus angka)
