@@ -1,2 +1,14 @@
-# Kelompok_U
-Repository Tugas Project Python Kelompok U
+# Smart-Absensi
+
+Program smart absensi menggunakan bahasa pemrograman python dan algoritma haarcascade
+
+## Cara Kerja
+
+1. Buka file **Smart Absensi_KU.py**
+2. Masukkan data yang diminta (khusus Nomor HP harus angka)
+3. **Take image** untuk mengambil sampel wajah
+4. **Training** untuk melatih program mengenali wajah
+5. **Automatic Attendance** untuk melakukan absen menggunakan wajah yang telah dilatih
+6. Tekan **q** di keyboard untuk keluar dari kamera
+7. Absensi telah dilakukan dan data sudah masuk kedalam file excel
+"# Kelompok_U22" 
